@@ -1,0 +1,52 @@
+/*.menu li :hover{
+  color: rgba(255, 89, 0, 0.583);  
+}
+.header {
+  background: #000000;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  flex:1;
+  height: 50px;
+}
+
+.menu {
+  display: flex;
+  margin-bottom: -10px;
+}
+
+.menu li {
+  margin-left: 10px;
+  
+}
+
+.menu li a {
+  display: block;
+  margin-bottom: 30px;
+}
+
+p {
+  padding:60px;
+  padding-bottom: 0px;
+  list-style: none;
+  font-size: 12px;
+  font-family: Arial;
+}
+li{
+  margin: 0px;
+  padding-bottom: 5px;
+  list-style: none;
+  font-family: Arial;
+}
+body {
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-right: 10px;
+}
+*/
+
